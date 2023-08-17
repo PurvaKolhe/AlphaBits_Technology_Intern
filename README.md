@@ -5,7 +5,8 @@ I had the incredible opportunity to intern at Alphabits Technology as a Data Sci
 
 # Achievements
 * 🏆 Received the <b>Best Intern Award</b> in recognition of my contributions and dedication.
-* 📜 Received a <b>Letter of Recommendation</b> highlighting my achievements and skills acquired during the internship.
+* 📜 Received a <b>Letter of Recommendation</b> and <b> Certefication of Completion</b> highlighting my achievements and skills acquired during the internship.
+* ### Link for Certefications: https://drive.google.com/drive/folders/1wcZoZPldAY_E0motj--IKHS0cGwUegAe?usp=drive_link  
 # Projects
 ### Project 1: Brush up your Knowledge
 <b>Duration:</b> Week 1
@@ -35,15 +36,15 @@ crops, to gathering data, providing insights, and offering predictions regarding
 production.and also it can able to advice former based on features like N,P,K
 ,temperature,humidity which crop he should use.it help former to get better yield.
 Following steps are used:
-1.dataset importing
-2.data analysis
-3.data preprocessing
-4.feature selection
-5.machine learning model training
+1. dataset importing
+2. data analysis
+3. data preprocessing
+4. feature selection
+5. machine learning model training
 
-6.test machine learning models
-7.compare multiple machine learning models
-8.conclude the result.
+6. test machine learning models
+7. compare multiple machine learning models
+8. conclude the result.
 
 
 
